@@ -122,7 +122,7 @@ string('location_lost.ogg', 'señal g p s perdida').
 string('location_recovered.ogg', 'señal g p s encontrada ').
 string('off_route.ogg', 'te has desviado de la ruta').
 string('back_on_route.ogg', 'has regresado a la ruta').
-string('exceed_limit.ogg', 'estás excediendo el límite de velocidad ').
+string('exceed_limit.ogg', 'límite de velocidad excedido ').
 
 % STREET NAME GRAMMAR
 string('on.ogg', 'en').
